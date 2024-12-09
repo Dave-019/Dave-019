@@ -25,6 +25,7 @@ Hey there, I'm **David**, a guy who's probably spent too many hours in front of 
 ## Let's Connect
 
 - LinkedIn: [David's Profile](https://www.linkedin.com/in/mwangi-david-6b279a2b4/)
+- X: [@Mwangi](https://x.com/DavidMwang976)
 - GitHub: [@david](https://github.com/Dave-019)
 
 Don’t be shy, give me a follow. Or don’t. I’m still gonna code.
