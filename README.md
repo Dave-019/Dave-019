@@ -1,32 +1,26 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile  
 
-Hey there, I'm **David**, a guy who's probably spent too many hours in front of a screen, but it's all for the greater good. I’m deep into **data engineering**, **web development**, and breaking stuff (bug bounty, of course).
+Hey, I’m **David**. Just a regular guy who spends a ridiculous amount of time coding and messing around with tech. I’m into **data engineering**, **web development**, and finding bugs (intentionally, not the “oops” kind).  
 
-## What I Do
+## What I Actually Do  
 
-- Data Engineering? You bet. SQL, Apache Spark, GCP, Docker—you name it.
-- Web Development: Vue, Nuxt, and all that cool stuff that makes the web less boring.
-- Bug Bounty: Because finding bugs is way more fun than squashing them.
-- **Roadmaps**: Check out my new repo for all the tech roadmaps you’ll ever need.
+- **Data Engineering**: Think SQL, Spark, Docker, and making data pipelines behave.  
+- **Web Dev**: Vue, Nuxt, Tailwind—if it’s on the web and looks good, I’m probably into it.  
+- **Bug Bounty Hunting**: Because breaking stuff is just… satisfying.  
 
-## Tech Stack
+## My Tech Toolbox  
 
-- **Languages**: Python, JavaScript, PHP
-- **Tools**: Docker, Jenkins, Git
-- **Cloud**: GCP
-- **Big Data**: Apache Spark
-- **Data Visualization**: Plotly, Power BI
-- **Databases**: SQL
+- **Languages**: Python, JavaScript, PHP (yeah, still kicking).  
+- **Tools**: Docker, Jenkins, Git—basically the “get stuff done” kit.  
+- **Cloud**: GCP (where everything lives these days).  
+- **Big Data**: Spark (because who doesn’t like playing with massive datasets?).  
+- **Data Viz**: Plotly, Power BI (turning numbers into something people *actually* get).  
+- **Databases**: SQL (I talk to databases more than people).  
 
-## Current Projects
+## Where to Find Me  
 
-- **Roadmaps Repo**: Yeah, I made one. It's full of all the roadmaps you'll need to stop getting lost in tech.
-  
-## Let's Connect
+- **[LinkedIn](https://www.linkedin.com/in/mwangi-david-6b279a2b4/)**  
+- **[Twitter/X](https://x.com/DavidMwang976)**  
+- **[GitHub](https://github.com/Dave-019)**  
 
-- LinkedIn: [David's Profile](https://www.linkedin.com/in/mwangi-david-6b279a2b4/)
-- X: [@Mwangi](https://x.com/DavidMwang976)
-- GitHub: [@david](https://github.com/Dave-019)
-
-Don’t be shy, give me a follow. Or don’t. I’m still gonna code.
-
+Follow me, don’t follow me—it’s cool either way. I’ll still be here building stuff, breaking stuff, and making it all work again.  
