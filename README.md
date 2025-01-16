@@ -10,12 +10,12 @@ Hey, I’m **David**. Just a regular guy who spends a ridiculous amount of time 
 
 ## My Tech Toolbox  
 
-- **Languages**: Python, JavaScript, PHP (yeah, still kicking).  
+- **Languages**: Python, JavaScript, PHP .  
 - **Tools**: Docker, Jenkins, Git—basically the “get stuff done” kit.  
-- **Cloud**: GCP (where everything lives these days).  
-- **Big Data**: Spark (because who doesn’t like playing with massive datasets?).  
-- **Data Viz**: Plotly, Power BI (turning numbers into something people *actually* get).  
-- **Databases**: SQL (I talk to databases more than people).  
+- **Cloud**: GCP .  
+- **Big Data**: Spark.  
+- **Data Viz**: Plotly, Power BI .  
+- **Databases**: SQL .  
 
 ## Where to Find Me  
 
