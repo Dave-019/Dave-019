@@ -1,26 +1,27 @@
 # Welcome to My GitHub Profile  
 
-Hey, I’m **David**. Just a regular guy who spends a ridiculous amount of time coding and messing around with tech. I’m into **data engineering**, **web development**, and finding bugs (intentionally, not the “oops” kind).  
+Hey, I’m **David**. I spend my time coding, learning, and building things. I’m into **data engineering**, **web development**, **machine learning**, and fixing bugs.  
 
-## What I Actually Do  
+## What I Learn  
 
-- **Data Engineering**: Think SQL, Spark, Docker, and making data pipelines behave.  
-- **Web Dev**: Vue, Nuxt, Tailwind—if it’s on the web and looks good, I’m probably into it.  
-- **Bug Bounty Hunting**: Because breaking stuff is just… satisfying.  
+- **Data Engineering**: Working with data using tools like SQL, Spark, and Docker.  
+- **Web Development**: Building web apps with Vue, Nuxt, and Tailwind.  
+- **Machine Learning**: Exploring models and making data predict things.  
+- **Bug Bounty**: Finding bugs and making things secure.  
 
-## My Tech Toolbox  
+## My Interests  
 
-- **Languages**: Python, JavaScript, PHP .  
-- **Tools**: Docker, Jenkins, Git—basically the “get stuff done” kit.  
-- **Cloud**: GCP .  
-- **Big Data**: Spark.  
-- **Data Viz**: Plotly, Power BI .  
-- **Databases**: SQL .  
+- **Languages**: Python, JavaScript, PHP  
+- **Tools**: Docker, Jenkins, Git  
+- **Cloud**: GCP  
+- **Big Data**: Spark  
+- **Visualization**: Plotly, Power BI  
+- **Databases**: SQL  
 
-## Where to Find Me  
+## Let's Connect  
 
 - **[LinkedIn](https://www.linkedin.com/in/mwangi-david-6b279a2b4/)**  
 - **[Twitter/X](https://x.com/DavidMwang976)**  
 - **[GitHub](https://github.com/Dave-019)**  
 
-Follow me, don’t follow me—it’s cool either way. I’ll still be here building stuff, breaking stuff, and making it all work again.  
+Feel free to reach out, whether you want to collaborate or just chat tech!
