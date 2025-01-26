@@ -1,15 +1,15 @@
 # Welcome to My GitHub Profile  
 
-Hey, I’m **David**. I spend my time coding, learning, and building things. I’m into **data engineering**, **web development**, **machine learning**, and fixing bugs.  
-[pp](https://github.com/agcrisbp/ADResume/raw/main/public/images/logo.png)
-## What fun in   
+Hey, I’m **David**. I spend my time coding, learning, and building things. I’m into **ANYTHING**, that is take tech.  
+
+## What i find fun doing  
 
 - **Working with data using tools like SQL, Spark, and Docker**.  
 - **Building web apps with Vue, Nuxt, and Tailwind**.  
 - **leanring models and making data predict things**.  
 - **finding bugs and making things secure**.  
 
-## tech that i have Interests in 
+## Tech that i have Interests in 
 
 - **Languages**: Python, JavaScript, PHP  
 - **Tools**: Docker, Jenkins, Git  
