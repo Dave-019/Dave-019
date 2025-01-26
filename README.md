@@ -5,7 +5,7 @@ Hey, Iâ€™m **David**. I spend my time coding, learning, and building things. Iâ€
 ## What fun in   
 
 - **Working with data using tools like SQL, Spark, and Docker**.  
-- ** Building web apps with Vue, Nuxt, and Tailwind**.  
+- **Building web apps with Vue, Nuxt, and Tailwind**.  
 - **leanring models and making data predict things**.  
 - **finding bugs and making things secure**.  
 
