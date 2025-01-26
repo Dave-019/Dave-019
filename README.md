@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile  
 
 Hey, I’m **David**. I spend my time coding, learning, and building things. I’m into **data engineering**, **web development**, **machine learning**, and fixing bugs.  
-![ML Journey(https://avatars.githubusercontent.com/u/160051803?v=4)
+[](https://avatars.githubusercontent.com/u/160051803?v=4)
 ## What fun in   
 
 - **Working with data using tools like SQL, Spark, and Docker**.  
