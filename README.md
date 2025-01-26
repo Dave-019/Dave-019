@@ -2,14 +2,14 @@
 
 Hey, I’m **David**. I spend my time coding, learning, and building things. I’m into **data engineering**, **web development**, **machine learning**, and fixing bugs.  
 
-## What I Learn  
+## What fun in   
 
-- **Data Engineering**: Working with data using tools like SQL, Spark, and Docker.  
-- **Web Development**: Building web apps with Vue, Nuxt, and Tailwind.  
-- **Machine Learning**: Exploring models and making data predict things.  
-- **Bug Bounty**: Finding bugs and making things secure.  
+- **Working with data using tools like SQL, Spark, and Docker**.  
+- ** Building web apps with Vue, Nuxt, and Tailwind**.  
+- **leanring models and making data predict things**.  
+- **finding bugs and making things secure**.  
 
-## My Interests  
+## tech that i have Interests in 
 
 - **Languages**: Python, JavaScript, PHP  
 - **Tools**: Docker, Jenkins, Git  
