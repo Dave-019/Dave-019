@@ -1,13 +1,13 @@
 # Welcome to My GitHub Profile  
 
-Hey, I’m **David**. I spend my time coding, learning, and building things. I’m into **ANYTHING**, that is take tech.  
+I’m **David**.I'm just ur average JOE ,I spend my time coding, learning, and building things. I’m into **ANYTHING**, that is tech.  
 
 ## What i find fun doing  
 
 - **Working with data using tools like SQL, Spark, and Docker**.  
-- **Building web apps with Vue, Nuxt, and Tailwind**.  
-- **leanring models and making data predict things**.  
-- **finding bugs and making things secure**.  
+- **Building web apps with Vue, Nuxt, php and Tailwind **.  
+- **currently i'm in love with machine learning**.  
+- **on my free time nowdays ,i'm looking for web vulnerabilities**.  
 
 ## Tech that i have Interests in 
 
@@ -24,4 +24,3 @@ Hey, I’m **David**. I spend my time coding, learning, and building things. I�
 - **[Twitter/X](https://x.com/DavidMwang976)**  
 - **[GitHub](https://github.com/Dave-019)**  
 
-Feel free to reach out, whether you want to collaborate or just chat tech!
