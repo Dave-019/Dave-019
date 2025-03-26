@@ -5,7 +5,7 @@ I’m **David**.I'm just ur average JOE ,I spend my time coding, learning, and b
 ## What i find fun doing  
 
 - **Working with data using tools like SQL, Spark, and Docker**.  
-- **Building web apps with Vue, Nuxt, php and Tailwind **.  
+- **Building web apps with Vue, Nuxt, php and Tailwind**.  
 - **currently i'm in love with machine learning**.  
 - **on my free time nowdays ,i'm looking for web vulnerabilities**.  
 
