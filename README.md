@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile  
 
-I’m *David*.I'm just ur average *Joe*.I'm an internet generalist i.e I’m into *ANYTHING*, that is tech.  
+I’m *David*.Just ur average *Joe*.an internet generalist i.e I’m into *ANYTHING*, that is tech.  
 
 *What i find fun doing*  
 
