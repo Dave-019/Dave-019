@@ -1,23 +1,22 @@
 # Welcome to My GitHub Profile  
 
-I’m *David*.I'm just ur average *Joe*,I spend my time coding, learning, and building things. I’m into *ANYTHING*, that is tech.  
+I’m *David*.I'm just ur average *Joe*.I'm an internet generalist i.e I’m into *ANYTHING*, that is tech.  
 
 *What i find fun doing*  
 
-- **Working with data using tools like SQL, Spark, and Docker**.  
-- **Building web apps with Vue, Nuxt, php and Tailwind**.  
-- **currently i'm in love with machine learning**.  
-- **on my free time nowdays ,i'm looking for web vulnerabilities**.  
+- **Interacting with computers.i usually spend more then 12 hours**.  
+- **Learning new tech stuff..i love reding tech blogs**.  
+- **currently i have found love in ctf's**.  
+
 
 *Tech that i have Interests in*
 
 - **Languages**: Python, Go, PHP  
 - **Tools**: Docker, Jenkins, Git
 - **framewokr**: i love *laravel* 
-- **Visualization**: Plotly, Power BI  
-- **Databases**: SQL  
 
-*Let's Connect*
+
+*my socials*
 
 - **[LinkedIn](https://www.linkedin.com/in/mwangi-david-6b279a2b4/)**  
 - **[Twitter/X](https://x.com/rectifier00x)**  
