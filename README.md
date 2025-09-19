@@ -12,7 +12,7 @@ I’m *David*.Just ur average *Joe*.an internet generalist i.e I’m into *ANYTH
 *Tech that i have Interests in*
 
 - **Languages**: Python, Go, PHP  
-- **Tools**: Docker, Jenkins, Git
+- **Tools**: Docker, Jenkins, Git,Bash
 - **framewokr**: i love *laravel* 
 
 
