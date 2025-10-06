@@ -4,16 +4,16 @@ I’m *David*.Just ur average *Joe*.an internet generalist i.e I’m into *ANYTH
 
 *What i find fun doing*  
 
-- **Interacting with computers.i usually spend more then 12 hours**.  
-- **Learning new tech stuff..i love reding tech blogs**.  
-- **currently i have found love in ctf's**.  
+- **playing computers**.  
+- **Learning new tech stuff..i love reading tech blogs**.  
+- **currently i have found new  love in  ctf's && competitive prog**.  
 
 
 *Tech that i have Interests in*
 
 - **Languages**: Python, Go, PHP  
 - **Tools**: Docker, Jenkins, Git,Bash
-- **framewokr**: i love *laravel* 
+- **framework**: i love *laravel* 
 
 
 *my socials*
