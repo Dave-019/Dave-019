@@ -6,14 +6,14 @@ I’m *David*.Just ur average *Joe*.an internet generalist i.e I’m into *ANYTH
 
 - **playing computers**.  
 - **Learning new tech stuff..i love reading tech blogs**.  
-- **currently i have found new  love in  ctf's && competitive prog**.  
+- **currently i have found new  love in  ctf's && vibe coding**.  
 
 
 *Tech that i have Interests in*
 
 - **Languages**: Python, Go, PHP  
 - **Tools**: Docker, Jenkins, Git,Bash
-- **framework**: i love *laravel* 
+- **framework**: i love *flask* 
 
 
 *my socials*
