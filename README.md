@@ -5,8 +5,7 @@ I’m *David*.Just ur average *Joe*.an internet generalist i.e I’m into *ANYTH
 *What i find fun doing*  
 
 - **playing computers**.  
-- **Learning new tech stuff..i love reading tech blogs**.  
-- **currently i have found new  love in  ctf's && vibe coding**.  
+- **Learning new tech stuff..i love reading tech blogs**.    
 
 
 *Tech that i have Interests in*
