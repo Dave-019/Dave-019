@@ -1,23 +1,14 @@
-# Welcome to My GitHub Profile  
+# hello there !
 
-I’m *David*.Just ur average *Joe*.an internet generalist i.e I’m into *ANYTHING*, that is tech.  
+Just your average Joe into *anything* tech.
 
-*What i find fun doing*  
-
-- **playing computers**.  
-- **Learning new tech stuff..i love reading tech blogs**.    
-
-
-*Tech that i have Interests in*
-
-- **Languages**: Python & PHP  
-- **Tools**: Docker, Jenkins, Git,Bash
-- **framework**: i love *flask* 
+##  What I Find Fun
+ Playing with computers
+Learning new tech stuff  (love reading tech blogs)
 
 
-*my socials*
 
-- **[LinkedIn](https://www.linkedin.com/in/mwangi-david-6b279a2b4/)**  
-- **[Twitter/X](https://x.com/rectifier00x)**  
-- **[GitHub](https://github.com/Dave-019)**  
-
+## Socials
+- [LinkedIn](https://www.linkedin.com/in/mwangi-david-6b279a2b4/)
+- [Twitter/X](https://x.com/rectifier00x)
+- [GitHub](https://github.com/Dave-019)
