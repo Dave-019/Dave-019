@@ -1,9 +1,10 @@
 Hello there !
 
-Just your average Joe into *anything* tech.
+Just your average Joe into anything tech.
 
-* I Find Fun
-  Playing with computers and
+#### ********I Find Fun
+
+* Playing with computers and
   Learning new tech stuff  (love reading tech blogs)
 
 #### reach me on :-
